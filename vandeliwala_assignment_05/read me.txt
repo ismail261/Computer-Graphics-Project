@@ -1,0 +1,1 @@
+After pressing n, user will be prompt to enter new name on console.
